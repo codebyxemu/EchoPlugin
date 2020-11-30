@@ -1,0 +1,10 @@
+name: Echo
+version: ${project.version}
+main: me.xemu.echo.Echo
+api-version: 1.16
+authors: [ Xemu, Hyfe ]
+description: Echo Plugin
+
+commands:
+  echo:
+    aliases: [ec]
